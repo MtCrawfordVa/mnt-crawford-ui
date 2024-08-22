@@ -145,45 +145,4 @@
   },
   "bids": {
     "page_name": "Current Bids",
-    "events": [
-      {
-        "name": "Example Bids",
-        "date": "Sat. May 25, 2024, from 8am-2pm",
-        "buttons": [
-          {
-            "title": "Fill out the vendor form",
-            "link": "/assets/documents/SUMMERFEST_APPLICATION.pdf",
-            "color": "info"
-          },
-          {
-            "title": "Click for mor info",
-            "link": "https://google.com",
-            "color": "primary"
-          },
-          {
-            "title": "Click for mor info",
-            "link": "https://google.com",
-            "color": "success"
-          }
-        ],
-        "text": [
-          "line 1 text",
-          "line 2 text"
-        ]
-      },
-      {
-        "name": "RFP Park Bid",
-        "date": "",
-        "buttons": [
-          {
-            "title": "Form",
-            "link": "assets/documents/RFP-May.pdf",
-            "color": "info"
-          }
-        ],
-        "text": [
-        ]
-      }
-    ]
-  }
-}
+    
